@@ -3,9 +3,8 @@ This is another project about DHT sensor but this time it runs on Wokwi Simulato
 # Installation
 Download the following extension on Visual Studio Code: Wokwi Simulator, PlatformIO IDE
 # Setup a Blynk project on Blynk Cloud website
-- New device
-- Select a template and give your device a name
-- Create
+- Create "New device"
+- Select a template and give your device a name> Create
 - After you create your new device, there will be Template ID, Template Name, and AuthToken on the top right, copy paste them into the code
 - Now set up Virtual Pins for the code to push data on Blynk:  
 On Blynk.Console, select Developer Zone > Select your project > Datastreams > New Datastream then create 3 Virtual Pins as follows:
